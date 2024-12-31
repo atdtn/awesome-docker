@@ -18,7 +18,7 @@
   "homepage": "https://github.com/veggiemonk/awesome-docker#readme",
   "dependencies": {
     "cheerio": "1.0.0-rc.3",
-    "draftlog": "1.0.12",
+    "draftlog": "1.0.13",
     "fs-extra": "9.0.0",
     "parcel-bundler": "1.12.4",
     "rimraf": "3.0.2",
