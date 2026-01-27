@@ -17,10 +17,10 @@
   },
   "homepage": "https://github.com/veggiemonk/awesome-docker#readme",
   "dependencies": {
-    "cheerio": "1.0.0-rc.3",
+    "cheerio": "1.0.0",
     "draftlog": "1.0.12",
     "fs-extra": "9.0.0",
-    "parcel-bundler": "1.12.4",
+    "parcel-bundler": "1.12.5",
     "rimraf": "3.0.2",
     "showdown": "1.9.1",
     "sitemap": "6.1.0"
